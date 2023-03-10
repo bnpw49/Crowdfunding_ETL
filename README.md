@@ -1,6 +1,6 @@
 # Project 2
 ## Crowdfunding_ETL
-
+* Amr Ismail, Angel Chen, Bree PiperWilliams, Olivia Montesano
 ## Instructions
 The instructions for this mini project are divided into the following subsections:
 
